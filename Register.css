@@ -1,0 +1,50 @@
+/* Register.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0; 
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  div {
+    margin: 10px 0;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #352cb9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3830a3;
+  }
+  
+  .error {
+    color: red;
+    text-align: center;
+  }
+
